@@ -1,0 +1,13 @@
+C:\Users\baptc\VaR solution\VaRLibrary\bin\Debug\VaRLibrary.dll
+C:\Users\baptc\VaR solution\VaRLibrary\bin\Debug\VaRLibrary.pdb
+C:\Users\baptc\VaR solution\VaRLibrary\bin\Debug\Outils.dll
+C:\Users\baptc\VaR solution\VaRLibrary\bin\Debug\Meta.Numerics.dll
+C:\Users\baptc\VaR solution\VaRLibrary\bin\Debug\Outils.pdb
+C:\Users\baptc\VaR solution\VaRLibrary\bin\Debug\Meta.Numerics.pdb
+C:\Users\baptc\VaR solution\VaRLibrary\bin\Debug\Meta.Numerics.xml
+C:\Users\baptc\VaR solution\VaRLibrary\obj\Debug\VaRLibrary.csprojAssemblyReference.cache
+C:\Users\baptc\VaR solution\VaRLibrary\obj\Debug\VaRLibrary.csproj.ResolveComReference.cache
+C:\Users\baptc\VaR solution\VaRLibrary\obj\Debug\VaRLibrary.csproj.CoreCompileInputs.cache
+C:\Users\baptc\VaR solution\VaRLibrary\obj\Debug\VaRLibrary.csproj.CopyComplete
+C:\Users\baptc\VaR solution\VaRLibrary\obj\Debug\VaRLibrary.dll
+C:\Users\baptc\VaR solution\VaRLibrary\obj\Debug\VaRLibrary.pdb

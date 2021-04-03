@@ -1,0 +1,3 @@
+C:\Users\baptc\VaR solution\VaR\obj\Debug\VaR.csprojAssemblyReference.cache
+C:\Users\baptc\VaR solution\VaR\obj\Debug\VaR.csproj.ResolveComReference.cache
+C:\Users\baptc\VaR solution\VaR\obj\Debug\VaR.csproj.CoreCompileInputs.cache

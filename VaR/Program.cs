@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Outils;
+using VaRLib;
 
 namespace VaR
 {
@@ -11,7 +12,7 @@ namespace VaR
     {   
         static void TestAllVar()
         {
-            DataProvider test = new ExcelDataProvider(@"C:\Users\baptc\VaR solution\VaR\Portfolio1.xlsx", 20);
+            DataProvider test = new ExcelDataProvider(@"C:\Users\baptc\VaR solution\VaR\Portfolio1.xlsx");
 
             CalculVar[] tabCalculVar = new CalculVar[] { new VarHistorique(test), new VarMonteCarlo(test), new VarParametrique(test) };
 
