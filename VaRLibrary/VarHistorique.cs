@@ -8,12 +8,14 @@ using Outils;
 namespace VaRLib
 {
     public class VarHistorique : CalculVar
-    {
+    {   
+        
         public VarHistorique(DataProvider dp,double alpha=0.01) : base(dp,alpha)
         {
 
         }
 
+        // Méthode calculant la VaR historique
         public override Tuple<double,double> Calcul()
         {
             double VaR_result = 0;
@@ -53,8 +55,6 @@ namespace VaRLib
                  
                 VaR_actif[j]= rendement_tri[position - 1]; // On récupére la VaR de l'actif seul; -1 car le tableau est indexé à 0
                 Cvar_actif[j] = CalculCvarFromSorted(rendement_tri);
-                // Console.WriteLine("VaR actif " + j +" : "+ VaR_actif[j]);
-                // Console.WriteLine("CVaR actif " + j + " : " + Cvar_actif[j]);
                 VaR_result += VaR_actif[j]* VaR_actif[j]*CompanyTab[j].Weight* CompanyTab[j].Weight;
                 Cvar_result += Cvar_actif[j] * Cvar_actif[j] * CompanyTab[j].Weight * CompanyTab[j].Weight;
 

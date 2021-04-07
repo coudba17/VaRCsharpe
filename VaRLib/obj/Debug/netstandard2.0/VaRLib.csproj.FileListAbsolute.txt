@@ -1,4 +1,0 @@
-C:\Users\baptc\VaR solution\VaRLib\obj\Debug\netstandard2.0\VaRLib.csprojAssemblyReference.cache
-C:\Users\baptc\VaR solution\VaRLib\obj\Debug\netstandard2.0\VaRLib.AssemblyInfoInputs.cache
-C:\Users\baptc\VaR solution\VaRLib\obj\Debug\netstandard2.0\VaRLib.AssemblyInfo.cs
-C:\Users\baptc\VaR solution\VaRLib\obj\Debug\netstandard2.0\VaRLib.csproj.CoreCompileInputs.cache

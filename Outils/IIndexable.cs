@@ -16,7 +16,7 @@ namespace Outils
 
         }
 
-        // j'applique les crochets directement sur l'objet
-        // Ce n'est pas une propriété classique, c'est une propriété particulère, sans nom, qui permet de surcharger le comportement des crochets
+        
+        
     }
 }

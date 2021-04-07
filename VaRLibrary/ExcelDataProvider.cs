@@ -21,8 +21,11 @@ namespace VaRLib
 
         public ExcelDataProvider(string path,int days=-1):base(days)
         {
-            // va créer un objet qui peut interagir avec un document excel
             
+
+            path = System.IO.Path.GetFullPath(path);
+
+            // va créer un objet qui peut interagir avec un document excel
             xapp = new Excel.Application();
             xlWorkBook = xapp.Workbooks.Open(path);
             xlWorksheet = xlWorkBook.Sheets[1] as Excel.Worksheet;
@@ -74,6 +77,7 @@ namespace VaRLib
 
         }
 
+        // Recupération du nom et du poids des entreprises
         protected override void readCompanyData()
         {
             for (int j = 2; j <= ncols; j++)

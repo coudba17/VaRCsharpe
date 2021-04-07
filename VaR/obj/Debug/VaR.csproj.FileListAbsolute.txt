@@ -1,3 +1,16 @@
 C:\Users\baptc\VaR solution\VaR\obj\Debug\VaR.csprojAssemblyReference.cache
 C:\Users\baptc\VaR solution\VaR\obj\Debug\VaR.csproj.ResolveComReference.cache
 C:\Users\baptc\VaR solution\VaR\obj\Debug\VaR.csproj.CoreCompileInputs.cache
+C:\Users\baptc\VaR solution\VaR\bin\Debug\VaR.exe.config
+C:\Users\baptc\VaR solution\VaR\bin\Debug\VaR.exe
+C:\Users\baptc\VaR solution\VaR\bin\Debug\VaR.pdb
+C:\Users\baptc\VaR solution\VaR\bin\Debug\Outils.dll
+C:\Users\baptc\VaR solution\VaR\bin\Debug\VaRLibrary.dll
+C:\Users\baptc\VaR solution\VaR\bin\Debug\Meta.Numerics.dll
+C:\Users\baptc\VaR solution\VaR\bin\Debug\Outils.pdb
+C:\Users\baptc\VaR solution\VaR\bin\Debug\VaRLibrary.pdb
+C:\Users\baptc\VaR solution\VaR\bin\Debug\Meta.Numerics.pdb
+C:\Users\baptc\VaR solution\VaR\bin\Debug\Meta.Numerics.xml
+C:\Users\baptc\VaR solution\VaR\obj\Debug\VaR.csproj.CopyComplete
+C:\Users\baptc\VaR solution\VaR\obj\Debug\VaR.exe
+C:\Users\baptc\VaR solution\VaR\obj\Debug\VaR.pdb

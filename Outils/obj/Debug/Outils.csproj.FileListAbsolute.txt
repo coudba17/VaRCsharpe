@@ -1,0 +1,10 @@
+C:\Users\baptc\VaR solution\Outils\bin\Debug\Outils.dll
+C:\Users\baptc\VaR solution\Outils\bin\Debug\Outils.pdb
+C:\Users\baptc\VaR solution\Outils\bin\Debug\Meta.Numerics.dll
+C:\Users\baptc\VaR solution\Outils\bin\Debug\Meta.Numerics.pdb
+C:\Users\baptc\VaR solution\Outils\bin\Debug\Meta.Numerics.xml
+C:\Users\baptc\VaR solution\Outils\obj\Debug\Outils.csproj.CoreCompileInputs.cache
+C:\Users\baptc\VaR solution\Outils\obj\Debug\Outils.csproj.CopyComplete
+C:\Users\baptc\VaR solution\Outils\obj\Debug\Outils.dll
+C:\Users\baptc\VaR solution\Outils\obj\Debug\Outils.pdb
+C:\Users\baptc\VaR solution\Outils\obj\Debug\Outils.csprojAssemblyReference.cache

@@ -13,6 +13,7 @@ namespace Outils
 
         }
 
+        // Algorithme de Cholesky
         public override void Decomposer()
         {
             if (A.Lignes == A.Colonnes)

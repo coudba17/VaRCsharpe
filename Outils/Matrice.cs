@@ -88,6 +88,7 @@ namespace Outils
             }
         }
 
+        // Addition entre deux matrices
         public Matrice Add(Matrice B)
         {
 
